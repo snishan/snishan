@@ -19,3 +19,27 @@ const snishan = {
     currentFocus: ["Front-End Development", "Cloud Infrastructure", "Quantum Computing"],
     lifePhilosophy: "Learning something new every day 🚀"
 };
+
+🛠 Tech Arsenal
+Core Technologies
+
+
+Web Technologies
+
+
+UI Libraries
+
+DevOps & Cloud
+
+
+Tools & Systems
+
+
+📊 GitHub Analytics
+
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=snishan&theme=radical" alt="GitHub Streak" /> </p>
+🤝 Connect & Collaborate
+
+
+💡 Open to collaborating on Educational Tech, AI Projects, and Cloud Infrastructure!
