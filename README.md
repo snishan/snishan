@@ -1,6 +1,6 @@
-# Nishan Sankhi
+# Sandun Thilakarathna
 
-Software Engineer
+Senior Software Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/snishan?label=Follow&style=social)](https://github.com/snishan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nishan-sankhi)
@@ -9,11 +9,11 @@ Software Engineer
 
 ```javascript
 const nishansankhi = {
-    location: "United States",
-    education: "MS Computer Science",
+    location: "Finland",
+    education: "MSc Business Information System",
     roles: ["Software Engineer", "Full Stack Developer"],
     currentFocus: ["Web Development", "Cloud Architecture", "System Design"],
-    techStack: ["Java", "JavaScript", "Python", "AWS"],
+    techStack: ["Node", "JavaScript", "Typescript", "AWS"],
     lifePhilosophy: "Building scalable solutions one line at a time 🚀"
 };
 ```
