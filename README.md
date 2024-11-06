@@ -1,6 +1,6 @@
 # Sandun Thilakarathna
 
-Senior Software Engineer
+Senior Software Engineer | Bsc(special) | ReactJS | NextJs | VueJs | NodeJs | TypeScript
 
 [![GitHub followers](https://img.shields.io/github/followers/snishan?label=Follow&style=social)](https://github.com/snishan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-nishan96/)
@@ -8,9 +8,9 @@ Senior Software Engineer
 ## 👨‍💻 About Me
 
 ```javascript
-const nishansankhi = {
+const sandunNishan = {
     location: "Finland",
-    education: "MSc Business Information System",
+    education: "MSc Business Information System(special)",
     roles: ["Software Engineer", "Full Stack Developer"],
     currentFocus: ["Web Development", "Cloud Architecture", "System Design"],
     techStack: ["Node", "JavaScript", "Typescript", "AWS"],
