@@ -21,10 +21,11 @@ const sandunNishan = {
 ## 🛠 Tech Arsenal
 
 ### Core Technologies
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+
 
 ### Web Technologies
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
