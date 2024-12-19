@@ -1,6 +1,6 @@
 # Sandun Thilakarathna
 
-Senior Software Engineer | Bsc(special) | ReactJS | NextJs | VueJs | NodeJs | TypeScript
+Senior Software Engineer | Bsc(special) | ReactJs | NextJs | VueJs | NodeJs | TypeScript
 
 [![GitHub followers](https://img.shields.io/github/followers/snishan?label=Follow&style=social)](https://github.com/snishan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandun-nishan96/)
