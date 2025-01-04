@@ -10,7 +10,7 @@ Senior Software Engineer | Bsc(special) | ReactJs | NextJs | VueJs | NodeJs | Ty
 ```javascript
 const sandunNishan = {
     location: "Finland",
-    education: "MSc Business Information System(special)",
+    education: "BSc Business Information System(special)",
     roles: ["Software Engineer", "Full Stack Developer"],
     currentFocus: ["Web Development", "Cloud Architecture", "System Design"],
     techStack: ["Node", "JavaScript", "Typescript", "AWS"],
